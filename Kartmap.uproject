@@ -14,6 +14,11 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
+		},
+		{
+			"Name": "OutlinerShortcuts",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f3c4bf65839d429cb8096e97787e04ed"
 		}
 	]
 }
